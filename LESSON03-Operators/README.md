@@ -1,4 +1,4 @@
-# **Python Operators: A Comprehensive Guide**  
+# **Python Operators**  
 This repository provides an overview of **Python operators**, including arithmetic, comparison, logical, assignment, and ternary operators. Operators are essential for performing operations on variables and values in Python.  
 
 ---
