@@ -11,7 +11,6 @@ The program uses a combination of strings and print statements to create a visua
 line01 = "********************"  # Header / Footer
 line02 = "*                  *"  # Reusable line
 line03 = "*     WELCOME!     *"  # Welcome message
-line04 = "************"          # Unused in this example
 
 # Start with a blank line
 print('')
