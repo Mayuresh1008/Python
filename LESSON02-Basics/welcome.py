@@ -1,7 +1,7 @@
 line01 = "********************" # header / footer
 line02 = "*                  *" # re-use
 line03 = "*     WELCOME!     *"
-line04 = "************"
+
 
 
 # start with a blank line
